@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "251347488839",
+    "project_id": "flutter-rent-999",
+    "storage_bucket": "flutter-rent-999.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:251347488839:android:f08e5bd083bf20e16c2162",
+        "android_client_info": {
+          "package_name": "com.example.rentcalculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "251347488839-o459rvp1uslmcv925u697tegnqrqvu7i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrJhP6K0xpYic7-A9yPxNF-HJfy_8qkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "251347488839-o459rvp1uslmcv925u697tegnqrqvu7i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
